@@ -2,7 +2,7 @@ package algorithm01;
 
 // 链表反转 迭代法
 // 迭代，重复某一过程，每一次处理结果作为下一次处理的初始值，而这些初始值类似于状态
-// 每次处理都会改变状态、直至达到最终状态 哈哈啊哈哈哈
+// 每次处理都会改变状态、直至达到最终状态 哈哈啊哈哈哈11
 public class LinkedListInversionIteration {
     static class ListNode{
         int val;
